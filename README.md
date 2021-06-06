@@ -4,13 +4,15 @@
 
 Greetings &#128075;
 
-My name is Nikhil Seth aka SNikhill. I have been shaping the web for 4 years.
+My name is Nikhil Seth _aka_ SNikhill.
 
-I believe in: _learn, fail, learn._
+I am a Front End Engineer by trade with a knack for
+the Terminal and a love for the Open Source.
 
-> Men must be taught as if you taught them not
->
-> And things unknown proposed as things forgot
+I have been professionally developing web for 4 years and have learnt from every
+mistake that I made.
+
+- *Current OS*: Exploring Arch Based Distributions
 
 ## A Consistent Learner
 
@@ -19,9 +21,20 @@ learning consistently and growing myself.
 
 ## A Voracious Reader
 
-I like to keep my knowledge filled using
+I once read that the Best Investment one can make is in oneself.
 
-I do have a tendency to collect quotes I like from the books that I have read.
+I actually decided to follow the same and choose books to be my source of
+knowledge.
+
+I have a tendency to collect inspiring quotes / excerpts from the books I read.
+
+#### Quote
+
+> Men must be taught as if you taught them not
+>
+> And things unknown proposed as things forgot
+>
+> (_From: How To Win Friends and Influence People_)
 
 ### Recommended Reads
 
@@ -32,8 +45,9 @@ I do have a tendency to collect quotes I like from the books that I have read.
 # Connect With Me
 
 Got something I can innovate at or Want to know what I am currently reading or
-just want to say hi?
+have a good reading recommendation; Maybe you just want to say Hi?
 
+-   [Website](https://snikhill.tech/)
 -   [@twitter](https://twitter.com/SethNikhill)
--   [@email](mailto:sethnikhil74@gmail.com)
 -   [@linkedin](https://www.linkedin.com/in/snikhill)
+-   [@email](mailto:sethnikhil74@gmail.com)
