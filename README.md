@@ -1,6 +1,6 @@
 ### Greetings! I am SNikhill :)
 
-**I am Fullstack Developer 💻, Open Source Enthusiast, Linux User :penguin: and a human :man:.**
+**I am a Fullstack Developer 💻, Open Source Enthusiast, Linux Explorer :penguin: and a human :man:.**
 
 - :toolbox: I have been shaping the web, professionally, for 4 years.
   - _Formerly, Engineering Manager at Value Financials_.
