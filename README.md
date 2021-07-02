@@ -1,6 +1,6 @@
 ### Greetings! I am SNikhill :)
 
-**I am a Fullstack Developer 💻, Open Source Enthusiast, Linux Explorer :penguin: and a human :man:.**
+**I am a Frontend Engineer 💻, Open Source Enthusiast, Linux Explorer :penguin: and a human :man:.**
 
 - :toolbox: I have been shaping the web, professionally, for 4 years.
   - _Formerly, Engineering Manager at Value Financials_.
@@ -11,7 +11,9 @@
 -  📚 I am a [Voracious Reader](#recommended-reads). I like to collect [inspiring quotes](#quote) and extracts from the books that I read.
 
 ## My Presence on the World Wide Web
-- [Personal Website](https://snikhill.tech/)
+
+- [Personal Website](https://snikhill.tech)
+- [@YouTube](https://www.youtube.com/SNikhill)
 - [@email](mailto:sethnikhil74@gmail.com)
 - [@twitter](https://twitter.com/SethNikhill)
 - [@LinkedIn](https://www.linkedin.com/in/snikhill)
