@@ -3,7 +3,7 @@
 **I am a Frontend Engineer 💻, Open Source Enthusiast, Linux Explorer :penguin: and a human :man:.**
 
 - :toolbox: I have been shaping the web, professionally, for 4 years.
-  - _Formerly, Engineering Manager at Value Financials_.
+  - _Currently, Innovating, Learning and Living Life_.
   - 💻 **OS**: Exploring Arch Based Distributions with i3WM.
   - 🗒️ **Text Editor**: VIM + VSCode.
     - ❓ **Why do I use VIM**? [Here is the answer](https://dev.to/snikhill/one-doesn-t-simply-exit-vim-jmo).
