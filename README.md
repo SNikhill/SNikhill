@@ -1,6 +1,6 @@
 ### Greetings! I am SNikhill :)
 
-**I am a Frontend Engineer 💻, Open Source Enthusiast, Linux Explorer :penguin: and a human :man:.**
+**I am a Software Engineer 💻, Open Source Enthusiast, Linux Explorer :penguin: and a human :man:.**
 
 - :toolbox: I have been shaping the web, professionally, for 4 years.
   - _Currently, Innovating, Learning and Living Life_.
