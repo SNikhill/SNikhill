@@ -4,8 +4,8 @@
 
 - :toolbox: I have been shaping the web, professionally, for 4 years.
   - _Currently, Innovating, Learning and Living Life_.
-  - 💻 **OS**: Exploring Arch Based Distributions with i3WM.
-  - 🗒️ **Text Editor**: VIM + VSCode.
+  - 💻 **OS**: Arch Linux (with _i3wm_ as the window manager)
+  - 🗒️ **Text Editor**: NeoVim
     - ❓ **Why do I use VIM**? [Here is the answer](https://dev.to/snikhill/one-doesn-t-simply-exit-vim-jmo).
 
 -  📚 I am a [Voracious Reader](#recommended-reads). I like to collect [inspiring quotes](#quote) and extracts from the books that I read.
