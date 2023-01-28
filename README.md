@@ -3,7 +3,6 @@
 **I am a Software Engineer 💻, Open Source Enthusiast, Linux Explorer :penguin: and a human :man:.**
 
 - :toolbox: I have been shaping the web, professionally, for 4 years.
-  - Currently, Software Engineer at [AgUnity](https://www.agunity.com/)
   - 💻 **OS**: Arch Linux (with _i3wm_ as the window manager)
   - 🗒️ **Text Editor**: NeoVim
     - ❓ **Why do I use VIM**? [Here is the answer](https://dev.to/snikhill/one-doesn-t-simply-exit-vim-jmo).
