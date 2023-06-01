@@ -14,7 +14,7 @@
 - [Personal Website](https://snikhill.tech)
 - [@YouTube](https://www.youtube.com/SNikhill)
 - [@email](mailto:sethnikhil74@gmail.com)
-- [@twitter](https://twitter.com/SethNikhill)
+- [@twitter](https://twitter.com/nikkhielseath)
 - [@LinkedIn](https://www.linkedin.com/in/snikhill)
 
 #### Quote
